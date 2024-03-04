@@ -1,3 +1,4 @@
+![Uploading Screenshot 2024-03-04 212424.png…]()
 #  my-GPT
 __Chat-Gpt model__
 
