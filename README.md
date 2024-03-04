@@ -1,4 +1,4 @@
-# @@ my-GPT @@
+#  my-GPT
 __Chat-Gpt model__
 
 ## Overview
