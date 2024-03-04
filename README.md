@@ -1,8 +1,8 @@
-![Uploading Screenshot 2024-03-04 212424.png…]()
 #  my-GPT
 __Chat-Gpt model__
 
-## Overview
+## Overview!
+
 
 This repository contains a ChatGPT model trained on custom prompts using the Langchain library and fine-tuned with the Hugging Face framework. The model is capable of generating human-like text responses given input questions or prompts. The training and testing of the model were conducted in Google Colab.
 
