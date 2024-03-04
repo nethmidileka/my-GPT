@@ -32,4 +32,12 @@ Example 2:
 
 Prompt: "How to create a cup of milk tea?"
 Response: "To create a cup of milk tea, you'll need tea leaves, milk, sugar, and boiling water..."
+
+
+
 ![GitHub all releases](https://img.shields.io/github/downloads/{nethmidileka}/{my-GPT}/total)
+![GitHub language count](https://img.shields.io/github/languages/count/{nethmidileka}/{my-GPT})
+![GitHub top language](https://img.shields.io/github/languages/top/{nethmidileka}/{my-GPT}?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{nethmidileka}/{my-GPT})
+![GitHub forks](https://img.shields.io/github/forks/{nethmidileka}/{my-GPT}?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/{nethmidileka}/{my-GPT}?style=social)
