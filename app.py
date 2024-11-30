@@ -3,7 +3,7 @@ from langchain import HuggingFaceHub
 from langchain import PromptTemplate, LLMChain
 
 repo_id ="tiiuae/falcon-7b-instruct"
-huggingfacehub_api_token="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"
+huggingfacehub_api_token="*************************"
 llm= HuggingFaceHub(huggingfacehub_api_token=huggingfacehub_api_token,
                     repo_id=repo_id,
                     model_kwargs={"temperature":0.7,"max_new_tokens":500})
